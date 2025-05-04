@@ -1,0 +1,11 @@
+{
+    "css.validate": false,
+    "scss.validate": false,
+    "less.validate": false,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "ignore": [
+    "public/*",
+    "public/uploads/*",
+    "public/uploads/temp/*",
+    "*.docx",
+    "*.pdf"
+  ],
+  "delay": "1000"
+}

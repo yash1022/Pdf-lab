@@ -1,0 +1,25 @@
+client/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── Auth/
+│   │   │   ├── Login.js
+│   │   │   └── Register.js
+│   │   ├── Layout/
+│   │   │   ├── Navbar.js
+│   │   │   └── Footer.js
+│   │   └── PDFMerger/
+│   │       ├── FileUpload.js
+│   │       ├── MergeForm.js
+│   │       └── JobStatus.js
+│   ├── contexts/
+│   │   └── AuthContext.js
+│   ├── pages/
+│   │   ├── Home.js
+│   │   ├── Dashboard.js
+│   │   └── MergePDF.js
+│   ├── utils/
+│   │   ├── api.js
+│   │   └── auth.js
+│   ├── App.js
+│   └── index.js
